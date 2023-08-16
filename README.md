@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on full stack development spring boot and react/angular<br><br>👯 I’m looking to collaborate on spring boot project<br><br>🤝 I’m looking for help with angular and design<br><br>🌱 I’m currently learning deployment and optimization<br><br>💬 Hello there, I'm Vivek Pandey— passionate coder, explorer of technology, and a lifelong learner.<br><br>⚡ Fun fact: Programmers often talk to rubber ducks. Not because they're great listeners, but because explaining the code out loud can help solve problems faster..
+🔭 I’m currently working on full stack development in spring boot and react/angular.<br><br>👯 I’m looking to collaborate on backend projects in spring.<br><br>🤝 I’m looking for help with frontend and UI design.<br><br>🌱 I’m currently learning application deployment and optimization.<br><br>💬 Hello there, I'm Vivek Pandey— passionate coder, explorer of technology, and a lifelong learner.<br><br>⚡ Fun fact: Programmers often talk to rubber ducks. Not because they're great listeners, but because explaining the code out loud can help solve problems faster..
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Welcome+to+Profile+Page)](https://git.io/typing-svg)
 # 💻 Tech Stack:
